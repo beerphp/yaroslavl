@@ -1,18 +1,19 @@
 ---
-name: New Meetup
-about: When you create new meetup discussion, please, follow this template
+name: Новая встреча
+about: При создании обсуждения новой встречи, придерживайтесь этого шаблона 
 title: 'Meetup #'
-labels: Under Discussion
+labels: На обсуждении
 assignees: saundefined
 
 ---
 
-**Date:** When do you propose to meet?
+**Дата:** Когда вы предлагаете встретиться?
 
-**Time:** And what time?
+**Время:** Во сколько?
 
-**Place:** And where?
+**Место:** Где?
 
-**Summary:**
-Describe what you want to talk about.
-That the stack or technology or something else you want to discuss?
+**Описание:**
+
+Опишите о чем бы вы хотели поговорить.
+Какой стек, технологию или что-то еще вы хотели бы обсудить?
