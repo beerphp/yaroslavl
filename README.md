@@ -6,6 +6,7 @@
 
 | Ver.  | Место | Дата |
 |-------|-------|------|
+| 1.1.0 | [На обсуждении](https://github.com/beerphp/yaroslavl/issues/2) ||
 | 1.0.0 | [На природе](https://github.com/beerphp/yaroslavl/issues/1) | 1 июля 2019 |
 | 0.6.0 | На природе | 20 июня 2019 |
 | 0.5.0 | [Krapiva Bar](https://www.facebook.com/krapivabaryaroslavl/) | 30 мая 2019 |
