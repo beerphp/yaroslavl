@@ -6,7 +6,7 @@
 
 | Ver.  | Место | Дата |
 |-------|-------|------|
-| 1.2.0 | [На обсуждении](https://github.com/beerphp/yaroslavl/issues/3) | TBA |
+| [1.2.0](https://github.com/beerphp/yaroslavl/issues/3) | [Cheer Duck](https://www.instagram.com/cheerduck.space/) | 10 декабря 2019 |
 | 1.1.0 | [Hopmalt Pub](https://hopmaltpub.ru/) | 23 июля 2019 |
 | 1.0.0 | [На природе](https://github.com/beerphp/yaroslavl/issues/1) | 1 июля 2019 |
 | 0.6.0 | На природе | 20 июня 2019 |
