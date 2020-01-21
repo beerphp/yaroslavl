@@ -6,7 +6,7 @@
 
 | # | Место | Дата |
 |-------|-------|------|
-| [10](https://github.com/beerphp/yaroslavl/issues/4) | На обсуждении | TBA |
+| [10](https://github.com/beerphp/yaroslavl/issues/4) | [На обсуждении](https://t.me/beerphp_yaroslavl) | 28 января 2020 |
 
 ## Прошедшие встречи
 
