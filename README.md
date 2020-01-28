@@ -6,12 +6,13 @@
 
 | # | Место | Дата |
 |-------|-------|------|
-| [10](https://github.com/beerphp/yaroslavl/issues/4) | [На обсуждении](https://t.me/beerphp_yaroslavl) | 28 января 2020 |
+| 11 | TBA | TBA |
 
 ## Прошедшие встречи
 
 | # | Место | Дата |
 |-------|-------|------|
+| [10](https://github.com/beerphp/yaroslavl/issues/4) | [Hopmalt Pub](https://hopmaltpub.ru/) | 28 января 2020 |
 | [9](https://github.com/beerphp/yaroslavl/issues/3) | [Cheer Duck](https://www.instagram.com/cheerduck.space/) | 10 декабря 2019 |
 | [8](https://github.com/beerphp/yaroslavl/pull/2) | [Hopmalt Pub](https://hopmaltpub.ru/) | 23 июля 2019 |
 | [7](https://github.com/beerphp/yaroslavl/issues/1) | На природе | 1 июля 2019 |
