@@ -6,7 +6,7 @@
 
 | # | Место | Дата |
 |-------|-------|------|
-| 11 | TBA | TBA |
+| [11](https://github.com/beerphp/yaroslavl/issues/5) | [Hopmalt Pub](https://hopmaltpub.ru/) | 12 марта 2020 |
 
 ## Прошедшие встречи
 
