@@ -6,7 +6,7 @@
 
 | # | Место | Дата |
 |-------|-------|------|
-| [12](https://github.com/beerphp/yaroslavl/issues/6) | На природе | 27 марта 2020 |
+| [12](https://github.com/beerphp/yaroslavl/issues/6) | TBA | Митап перенесен на неопределенный срок |
 
 ## Прошедшие встречи
 
