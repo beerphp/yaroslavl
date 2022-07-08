@@ -6,12 +6,13 @@
 
 | # | Место | Дата |
 |-------|-------|------|
-| [12](https://github.com/beerphp/yaroslavl/issues/6) | TBA | Митап перенесен на неопределенный срок |
+| 13 | TBA |  |
 
 ## Прошедшие встречи
 
 | # | Место | Дата |
 |-------|-------|------|
+| [12](https://github.com/beerphp/yaroslavl/issues/6) | [Hopmalt Pub](https://hopmaltpub.ru/) | 24 июня 2022 |
 | [11](https://github.com/beerphp/yaroslavl/issues/5) | [Hopmalt Pub](https://hopmaltpub.ru/) | 12 марта 2020 |
 | [10](https://github.com/beerphp/yaroslavl/issues/4) | [Hopmalt Pub](https://hopmaltpub.ru/) | 28 января 2020 |
 | [9](https://github.com/beerphp/yaroslavl/issues/3) | [Cheer Duck](https://www.instagram.com/cheerduck.space/) | 10 декабря 2019 |
